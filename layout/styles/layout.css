@@ -38,7 +38,9 @@
 
 /* Header --------------------------------------------------------------------------------------------------------------- */
 
-#header {}
+#header {
+	background-image :url('images/demo/backgrounds/background01.jpg');
+}
 
 #header #logo {
 	margin: 30px 0 0 0;
